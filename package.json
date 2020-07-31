@@ -8,7 +8,7 @@
     "bcryptjs": "^2.4.3",
     "collection-visit": "^1.0.0",
     "define-property": "^2.0.2",
-    "dot-prop": "^4.2.0",
+    "dot-prop": "^5.1.1",
     "express": "^4.17.1",
     "extend-shallow": "^3.0.2",
     "fragment-cache": "^0.2.1",
