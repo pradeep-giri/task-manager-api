@@ -15,7 +15,7 @@
     "fsevents": "^1.2.9",
     "get-stream": "^3.0.0",
     "get-value": "^2.0.6",
-    "glob-parent": "^3.1.0",
+    "glob-parent": "^5.1.2",
     "global-dirs": "^0.1.1",
     "graceful-fs": "^4.2.2",
     "has-flag": "^3.0.0",
